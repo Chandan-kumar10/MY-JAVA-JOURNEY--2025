@@ -21,6 +21,7 @@ class SyntaxFunction{
     greet();
     calculatesum();
   }
+
 }
 
 
