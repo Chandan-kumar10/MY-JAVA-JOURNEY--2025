@@ -2,7 +2,7 @@
 class SwappingNumber {
 
     public static void Swapping() {
-        int a = 20;
+        int a  = 20;
         int b = 40;
         int temp = a;
         a = b;
