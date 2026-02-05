@@ -12,4 +12,4 @@ Use any Java IDE or terminal to compile and run the `.java` files.
 
 ---
 
-Created with love by Chandan Kumar.
+Created with love by chandan kumar.
